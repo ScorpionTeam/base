@@ -53,6 +53,7 @@ public class OrderExt extends Order {
     @JSONField(name = "good_no")
     private String goodNo;
 
+
     /**
      * 活动商品id
      */
